@@ -4,13 +4,8 @@ body {
   color: #E0ECFA;
 }
 
-h1 {
+h1, h3 {
   font-family: "Times New Roman", Times, serif;
-  color: #E0ECFA;
-}
-
-h3 {
-  font-family: "Lucida Console", "Courier New", monospace;
   color: #E0ECFA;
 }
 
